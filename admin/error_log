@@ -1,0 +1,289 @@
+[26-Nov-2014 18:37:16 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:37:19 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:37:21 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:37:23 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:37:37 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:41:48 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:42:10 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:42:40 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:49:22 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:50:15 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:53:47 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 3
+[26-Nov-2014 18:55:07 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1280 bytes) in /home/caseym/public_html/aviation/admin/adminMenu.php on line 46
+[27-Nov-2014 01:28:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'edit' (T_STRING), expecting ')' in /home/caseym/public_html/aviation/admin/admins.php on line 50
+[27-Nov-2014 01:29:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/caseym/public_html/aviation/admin/admins.php on line 59
+[27-Nov-2014 01:31:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/caseym/public_html/aviation/admin/admins.php on line 54
+[27-Nov-2014 01:32:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/admins.php on line 57
+[27-Nov-2014 01:32:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/caseym/public_html/aviation/admin/admins.php on line 54
+[27-Nov-2014 01:32:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/admins.php on line 57
+[27-Nov-2014 01:35:14 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/caseym/public_html/aviation/admin/admins.php on line 54
+[27-Nov-2014 01:37:44 America/Chicago] PHP Warning:  include(change.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:37:44 America/Chicago] PHP Warning:  include(change.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:37:44 America/Chicago] PHP Warning:  include(): Failed opening 'change.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:37:52 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:37:52 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:37:52 America/Chicago] PHP Warning:  include(): Failed opening 'add.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:48:02 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:48:02 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:48:02 America/Chicago] PHP Warning:  include(): Failed opening 'add.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[27-Nov-2014 01:55:32 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 5
+[27-Nov-2014 01:56:08 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 5
+[27-Nov-2014 01:56:33 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 5
+[27-Nov-2014 01:59:52 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 5
+[27-Nov-2014 02:00:53 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 5
+[27-Nov-2014 02:03:18 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 640 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 3
+[27-Nov-2014 02:03:32 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 640 bytes) in /home/caseym/public_html/aviation/admin/admins.php on line 3
+[28-Nov-2014 00:52:38 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/list.php on line 35
+[28-Nov-2014 00:52:38 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/list.php on line 35
+[28-Nov-2014 00:52:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/list.php on line 35
+[28-Nov-2014 03:44:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$firstErr' (T_VARIABLE), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/add.php on line 112
+[28-Nov-2014 03:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$firstErr' (T_VARIABLE), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/add.php on line 112
+[28-Nov-2014 03:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$firstErr' (T_VARIABLE), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/add.php on line 112
+[28-Nov-2014 22:31:26 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/add.php on line 41
+[29-Nov-2014 00:39:04 America/Chicago] PHP Warning:  include(admins, nav=add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 00:39:04 America/Chicago] PHP Warning:  include(admins, nav=add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 00:39:04 America/Chicago] PHP Warning:  include(): Failed opening 'admins, nav=add.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 00:39:12 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/caseym/public_html/aviation/admin/add.php on line 24
+[29-Nov-2014 16:00:21 America/Chicago] PHP Warning:  include(sectionRemove.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 16:00:21 America/Chicago] PHP Warning:  include(sectionRemove.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 16:00:21 America/Chicago] PHP Warning:  include(): Failed opening 'sectionRemove.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 17:58:15 America/Chicago] PHP Warning:  include(sections.php.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 17:58:15 America/Chicago] PHP Warning:  include(sections.php.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 17:58:15 America/Chicago] PHP Warning:  include(): Failed opening 'sections.php.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[29-Nov-2014 18:09:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/sectionAdd.php on line 72
+[29-Nov-2014 19:01:37 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/caseym/public_html/aviation/admin/sectionAdd.php on line 44
+[29-Nov-2014 19:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/sectionAdd.php on line 18
+[29-Nov-2014 19:52:02 America/Chicago] PHP Warning:  include(lock.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 19:52:02 America/Chicago] PHP Warning:  include(lock.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 19:52:02 America/Chicago] PHP Warning:  include(): Failed opening 'lock.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/sections.php on line 66
+[29-Nov-2014 20:22:58 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/caseym/public_html/aviation/admin/sectionLock.php on line 20
+[29-Nov-2014 20:23:27 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/caseym/public_html/aviation/admin/sectionLock.php on line 20
+[29-Nov-2014 20:58:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/caseym/public_html/aviation/admin/sectionLock.php on line 34
+[29-Nov-2014 20:59:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/caseym/public_html/aviation/admin/sectionLock.php on line 34
+[29-Nov-2014 21:42:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/sectionLock.php on line 15
+[29-Nov-2014 21:43:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/caseym/public_html/aviation/admin/sectionLock.php on line 15
+[29-Nov-2014 22:44:02 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/caseym/public_html/aviation/admin/sectionLock.php on line 16
+[29-Nov-2014 22:44:27 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/caseym/public_html/aviation/admin/sectionLock.php on line 16
+[29-Nov-2014 23:09:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/sectionLock.php on line 17
+[29-Nov-2014 23:10:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/caseym/public_html/aviation/admin/sectionLock.php on line 17
+[30-Nov-2014 12:18:43 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cardAdd.php on line 18
+[30-Nov-2014 12:18:43 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cardAdd.php on line 18
+[30-Nov-2014 12:18:43 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/cardAdd.php on line 18
+[30-Nov-2014 12:22:38 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/addCard.php on line 30
+[30-Nov-2014 12:22:38 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/addCard.php on line 30
+[30-Nov-2014 12:22:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/addCard.php on line 30
+[30-Nov-2014 12:26:08 America/Chicago] PHP Warning:  move_uploaded_file(section/images/718933691_1b96fe6dee.jpg): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cardAdd.php on line 60
+[30-Nov-2014 12:26:08 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXUJhxJ' to 'section/images/718933691_1b96fe6dee.jpg' in /home/caseym/public_html/aviation/admin/cardAdd.php on line 60
+[30-Nov-2014 12:27:40 America/Chicago] PHP Warning:  move_uploaded_file(section3/images/718933691_1b96fe6dee.jpg): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cardAdd.php on line 60
+[30-Nov-2014 12:27:40 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps5C6Fv' to 'section3/images/718933691_1b96fe6dee.jpg' in /home/caseym/public_html/aviation/admin/cardAdd.php on line 60
+[30-Nov-2014 12:41:14 America/Chicago] PHP Warning:  file_get_contents(http://translate.google.com/translate_tts?ie=UTF-8&amp;q=&amp;tl=en&amp;total=1&amp;idx=0&amp;textlen=5&amp;prev=input): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/caseym/public_html/aviation/admin/cardAdd.php on line 52
+[30-Nov-2014 12:46:11 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/caseym/public_html/aviation/admin/cardAdd.php on line 59
+[30-Nov-2014 12:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''&q='' (T_CONSTANT_ENCAPSED_STRING) in /home/caseym/public_html/aviation/admin/cardAdd.php on line 52
+[30-Nov-2014 12:52:12 America/Chicago] PHP Warning:  file_get_contents(http://translate.google.com/translate_tts?ie=UTF-8&amp;tl=en&amp;q=): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/caseym/public_html/aviation/admin/cardAdd.php on line 52
+[30-Nov-2014 13:13:27 America/Chicago] PHP Warning:  file_get_contents(http://translate.google.com/translate_tts?ie=UTF-8&amp;tl=en&amp;q=This is fun to play with!): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/caseym/public_html/aviation/admin/cardAdd.php on line 52
+[30-Nov-2014 14:02:22 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/caseym/public_html/aviation/admin/cardAdd.php on line 34
+[30-Nov-2014 15:04:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caseym/public_html/aviation/admin/cardAdd.php on line 153
+[30-Nov-2014 21:03:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/caseym/public_html/aviation/admin/sectionList.php on line 48
+[30-Nov-2014 21:03:25 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/caseym/public_html/aviation/admin/sectionList.php on line 48
+[30-Nov-2014 21:44:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'checkbox' (T_STRING) in /home/caseym/public_html/aviation/admin/cardDelete.php on line 75
+[30-Nov-2014 21:45:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'checkbox' (T_STRING) in /home/caseym/public_html/aviation/admin/cardDelete.php on line 77
+[30-Nov-2014 22:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caseym/public_html/aviation/admin/cardDelete.php on line 35
+[30-Nov-2014 22:12:00 America/Chicago] PHP Warning:  Illegal string offset 'checkArray' in /home/caseym/public_html/aviation/admin/cardDelete.php on line 20
+[30-Nov-2014 23:30:34 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/caseym/public_html/aviation/admin/cardDelete.php on line 20
+[30-Nov-2014 23:32:46 America/Chicago] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/caseym/public_html/aviation/admin/cardDelete.php on line 21
+[30-Nov-2014 23:34:13 America/Chicago] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/caseym/public_html/aviation/admin/cardDelete.php on line 21
+[30-Nov-2014 23:35:38 America/Chicago] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/caseym/public_html/aviation/admin/cardDelete.php on line 21
+[30-Nov-2014 23:37:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caseym/public_html/aviation/admin/cardDelete.php on line 22
+[30-Nov-2014 23:38:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caseym/public_html/aviation/admin/cardDelete.php on line 22
+[30-Nov-2014 23:38:41 America/Chicago] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/caseym/public_html/aviation/admin/cardDelete.php on line 21
+[30-Nov-2014 23:44:37 America/Chicago] PHP Warning:  unlink($audioDir): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 29
+[30-Nov-2014 23:44:37 America/Chicago] PHP Warning:  unlink($imageDir): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 30
+[30-Nov-2014 23:46:18 America/Chicago] PHP Warning:  unlink(section2/audio/Abba.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 29
+[30-Nov-2014 23:46:18 America/Chicago] PHP Warning:  unlink(section2/images/Abba.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 30
+[30-Nov-2014 23:49:47 America/Chicago] PHP Warning:  unlink(../section2/images/Apple.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 32
+[01-Dec-2014 00:02:24 America/Chicago] PHP Warning:  unlink(../section2/images/Apple_2.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 33
+[01-Dec-2014 00:02:24 America/Chicago] PHP Warning:  unlink(../../section2/images/Apple_2.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 34
+[01-Dec-2014 00:04:52 America/Chicago] PHP Warning:  unlink(../section1/images/Apple_2.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 33
+[01-Dec-2014 00:13:52 America/Chicago] PHP Warning:  unlink() expects parameter 2 to be resource, string given in /home/caseym/public_html/aviation/admin/cardDelete.php on line 36
+[01-Dec-2014 10:38:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/caseym/public_html/aviation/admin/chngPassword.php on line 87
+[01-Dec-2014 10:38:58 America/Chicago] PHP Warning:  printf(): Too few arguments in /home/caseym/public_html/aviation/admin/chngPassword.php on line 86
+[01-Dec-2014 10:39:21 America/Chicago] PHP Warning:  printf(): Too few arguments in /home/caseym/public_html/aviation/admin/chngPassword.php on line 86
+[01-Dec-2014 10:47:05 America/Chicago] PHP Warning:  printf(): Too few arguments in /home/caseym/public_html/aviation/admin/chngPassword.php on line 86
+[01-Dec-2014 10:47:27 America/Chicago] PHP Warning:  printf(): Too few arguments in /home/caseym/public_html/aviation/admin/chngPassword.php on line 86
+[01-Dec-2014 17:29:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/caseym/public_html/aviation/admin/admins.php on line 43
+[01-Dec-2014 17:32:29 America/Chicago] PHP Warning:  include(list.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 17:32:29 America/Chicago] PHP Warning:  include(list.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 17:32:29 America/Chicago] PHP Warning:  include(): Failed opening 'list.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 18:37:40 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 18:37:40 America/Chicago] PHP Warning:  include(add.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 18:37:40 America/Chicago] PHP Warning:  include(): Failed opening 'add.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/admins.php on line 66
+[01-Dec-2014 19:16:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'admins' (T_STRING), expecting ')' in /home/caseym/public_html/aviation/admin/adminMenu.php on line 42
+[01-Dec-2014 19:17:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'admins' (T_STRING), expecting ')' in /home/caseym/public_html/aviation/admin/adminMenu.php on line 42
+[01-Dec-2014 19:17:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'admins' (T_STRING), expecting ')' in /home/caseym/public_html/aviation/admin/adminMenu.php on line 42
+[01-Dec-2014 19:18:11 America/Chicago] PHP Warning:  include(user.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[01-Dec-2014 19:18:11 America/Chicago] PHP Warning:  include(user.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[01-Dec-2014 19:18:11 America/Chicago] PHP Warning:  include(): Failed opening 'user.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/adminMenu.php on line 66
+[01-Dec-2014 22:56:52 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 105
+[01-Dec-2014 23:07:57 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 102
+[01-Dec-2014 23:13:38 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 102
+[01-Dec-2014 23:13:39 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 102
+[01-Dec-2014 23:14:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/caseym/public_html/aviation/admin/user.php on line 7
+[01-Dec-2014 23:14:59 America/Chicago] PHP Fatal error:  Call to undefined function fetch() in /home/caseym/public_html/aviation/admin/user.php on line 119
+[01-Dec-2014 23:15:41 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 106
+[01-Dec-2014 23:16:28 America/Chicago] PHP Fatal error:  Call to undefined function fetch() in /home/caseym/public_html/aviation/admin/user.php on line 120
+[01-Dec-2014 23:16:31 America/Chicago] PHP Fatal error:  Call to undefined function fetch() in /home/caseym/public_html/aviation/admin/user.php on line 120
+[01-Dec-2014 23:16:53 America/Chicago] PHP Fatal error:  Call to undefined method PDO::fetch() in /home/caseym/public_html/aviation/admin/user.php on line 120
+[01-Dec-2014 23:19:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/caseym/public_html/aviation/admin/user.php on line 128
+[01-Dec-2014 23:19:19 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/caseym/public_html/aviation/admin/user.php on line 128
+[01-Dec-2014 23:19:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/caseym/public_html/aviation/admin/user.php on line 128
+[01-Dec-2014 23:20:06 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/caseym/public_html/aviation/admin/user.php on line 128
+[01-Dec-2014 23:22:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/caseym/public_html/aviation/admin/user.php on line 121
+[01-Dec-2014 23:22:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/caseym/public_html/aviation/admin/user.php on line 121
+[01-Dec-2014 23:25:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/caseym/public_html/aviation/admin/user.php on line 125
+[01-Dec-2014 23:25:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/caseym/public_html/aviation/admin/user.php on line 125
+[01-Dec-2014 23:26:36 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/user.php on line 109
+[01-Dec-2014 23:29:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/caseym/public_html/aviation/admin/user.php on line 51
+[01-Dec-2014 23:29:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/caseym/public_html/aviation/admin/user.php on line 51
+[01-Dec-2014 23:29:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/caseym/public_html/aviation/admin/user.php on line 51
+[02-Dec-2014 00:41:00 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 00:41:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 00:41:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 00:41:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 00:42:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/user.php on line 89
+[02-Dec-2014 00:43:59 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 00:44:23 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/caseym/public_html/aviation/admin/user.php on line 91
+[02-Dec-2014 01:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 01:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 74
+[02-Dec-2014 01:27:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 74
+[02-Dec-2014 01:27:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 74
+[02-Dec-2014 01:27:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 74
+[02-Dec-2014 09:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:28:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:29:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:30:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:32:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:32:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 09:45:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 24
+[02-Dec-2014 09:46:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 26
+[02-Dec-2014 09:46:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:47:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:48:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:49:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:49:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:52:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:52:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 09:52:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 10:09:54 America/Chicago] PHP Fatal error:  Call to undefined function fetchall() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 15
+[02-Dec-2014 10:10:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 14:43:42 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 15:37:07 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 15:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 15:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''>";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/adminMenu.php on line 60
+[02-Dec-2014 16:00:19 America/Chicago] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:00:19 America/Chicago] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:00:19 America/Chicago] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:00:27 America/Chicago] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:00:27 America/Chicago] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:00:27 America/Chicago] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/caseym/public_html/aviation/admin/cards.php on line 66
+[02-Dec-2014 16:05:49 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 16:29:01 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 18
+[02-Dec-2014 16:31:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:32:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:34:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:34:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:36:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:37:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:37:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:38:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 20
+[02-Dec-2014 16:39:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 19
+[02-Dec-2014 16:42:14 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 16:43:19 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 16:43:41 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 16:45:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 16:47:26 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 16:49:29 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 16:58:53 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 16:59:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 17:01:02 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 17:01:19 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 23
+[02-Dec-2014 17:01:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 38
+[02-Dec-2014 17:03:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 38
+[02-Dec-2014 17:04:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/adminPassword.php on line 107
+[02-Dec-2014 17:06:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 34
+[02-Dec-2014 17:11:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 39
+[02-Dec-2014 17:13:59 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 28
+[02-Dec-2014 17:15:26 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 28
+[02-Dec-2014 17:15:44 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 28
+[02-Dec-2014 17:15:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 28
+[02-Dec-2014 17:15:48 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 28
+[02-Dec-2014 17:16:23 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 17:16:51 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/caseym/public_html/aviation/admin/adminPassword.php on line 22
+[02-Dec-2014 17:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 17:54:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 17:55:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 17:55:21 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 17:58:33 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 17:58:35 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 18:00:07 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 18:00:09 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 18:00:15 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ']' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 21
+[02-Dec-2014 18:04:04 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/caseym/public_html/aviation/admin/adminPassword.php on line 17
+[02-Dec-2014 18:04:26 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/caseym/public_html/aviation/admin/adminPassword.php on line 17
+[02-Dec-2014 18:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 17
+[02-Dec-2014 18:10:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 17
+[02-Dec-2014 18:10:23 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 17
+[02-Dec-2014 18:14:46 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/caseym/public_html/aviation/admin/adminPassword.php on line 39
+[02-Dec-2014 18:27:04 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/caseym/public_html/aviation/admin/adminPassword.php on line 41
+[02-Dec-2014 18:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 18:38:14 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 18:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 92
+[02-Dec-2014 18:48:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 92
+[02-Dec-2014 18:48:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 92
+[02-Dec-2014 19:02:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 19:19:37 America/Chicago] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 19:19:48 America/Chicago] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER) in /home/caseym/public_html/aviation/admin/adminPassword.php on line 91
+[02-Dec-2014 23:27:00 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/caseym/public_html/aviation/admin/adminDelete.php on line 58
+[02-Dec-2014 23:42:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 228
+[02-Dec-2014 23:43:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardDelete.php on line 112
+[02-Dec-2014 23:43:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sections.php on line 90
+[02-Dec-2014 23:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/user.php on line 153
+[02-Dec-2014 23:43:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/admins.php on line 89
+[02-Dec-2014 23:43:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 228
+[02-Dec-2014 23:44:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 227
+[02-Dec-2014 23:44:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 227
+[02-Dec-2014 23:45:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 227
+[02-Dec-2014 23:45:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardAdd.php on line 227
+[02-Dec-2014 23:45:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/cardDelete.php on line 112
+[02-Dec-2014 23:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sections.php on line 90
+[02-Dec-2014 23:46:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sections.php on line 90
+[02-Dec-2014 23:47:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sections.php on line 90
+[02-Dec-2014 23:47:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sectionsList.php on line 64
+[02-Dec-2014 23:47:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/sectionsList.php on line 64
+[02-Dec-2014 23:49:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/admins.php on line 89
+[02-Dec-2014 23:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/admins.php on line 89
+[02-Dec-2014 23:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/admins.php on line 89
+[02-Dec-2014 23:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/user.php on line 153
+[02-Dec-2014 23:50:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/adminPassword.php on line 116
+[02-Dec-2014 23:51:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/adminDelete.php on line 86
+[02-Dec-2014 23:51:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/user.php on line 153
+[03-Dec-2014 00:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/checklogin.php on line 61
+[03-Dec-2014 00:16:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caseym/public_html/aviation/admin/checklogin.php on line 60
+[03-Dec-2014 00:29:53 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 43
+[03-Dec-2014 00:31:10 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:31:47 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:31:57 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:35:43 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:35:54 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:36:32 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 44
+[03-Dec-2014 00:37:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 43
+[03-Dec-2014 00:38:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 43
+[03-Dec-2014 00:38:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/caseym/public_html/aviation/admin/checklogin.php on line 42
+[15-Dec-2014 13:05:13 America/Chicago] PHP Warning:  unlink(../section2/audio/wings.mp3): No such file or directory in /home/caseym/public_html/aviation/admin/cardDelete.php on line 43
+[05-Jan-2015 12:04:05 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/aviation/public_html/admin/checklogin.php on line 31
+[13-Jan-2015 22:16:45 America/Chicago] PHP Warning:  unlink(../section1/audio/Freezing_Rain.mp3): No such file or directory in /home/aviation/public_html/admin/cardDelete.php on line 43
+[13-Jan-2015 22:16:45 America/Chicago] PHP Warning:  unlink(../section1/images/Freezing_Rain.jpg): No such file or directory in /home/aviation/public_html/admin/cardDelete.php on line 44

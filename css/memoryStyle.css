@@ -1,0 +1,74 @@
+div.container-fluid {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-color: #237457; 
+}
+
+.buttons{
+  width:15%;
+}
+
+.buttons:hover{
+    opacity: 0.7;
+}
+
+div#memory_board{
+  background-color: gray;
+  width: 660px;
+  padding: 15px;
+ 
+}
+
+div#memory_board > div {
+  
+  background-size: 200px 200px;
+  border:#000;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 5px;
+  padding: 20px;
+  cursor:pointer;
+  text-align: center;
+}
+
+.clickableTIle{
+  background: url("../images/memoryGameCard.png") no-repeat;
+}
+
+.menu{
+  width: 100%;
+}
+
+footer{
+  background-color: #303030;
+}
+
+#center{
+  font-size: 250%;
+  background-color: #c3c2c2;
+  background-size: 200px 200px;
+  border:#c3c2c2;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 5px;
+  
+  cursor:pointer;
+  text-align: center;
+  
+}
+.correct{
+  background-color: green;
+}
+.modal-header, .modal-footer{
+	background-color: #c3c2c2;
+}
+
+
+.modal-body{
+	margin: 0 auto;
+	background-color: #303030;
+	background-color: #c3c2c2;
+	
+}

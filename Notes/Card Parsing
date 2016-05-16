@@ -1,0 +1,5 @@
+Card Parsing: 
+
+To parse each card, set up the html for a card div, and then enter all of the markup for our html for the card. 
+
+Instead of having the variables hard coded, use an array to grab specific cards, then pull the card.word and so on and so forth to alter the overall html for the card. 

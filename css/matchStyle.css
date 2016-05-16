@@ -1,0 +1,109 @@
+body{
+	width: 100%;
+	height: 100%;
+	background-color: pink;
+}
+			
+.matching_area{
+
+	padding: auto auto;
+	width:80%;
+	height: 800px;
+	margin: 3em auto;
+}
+
+.left{
+	background-color: blue;
+	float:left;
+	width: 60%;
+	height: 100%;
+	border: solid;
+}
+
+.right{
+	background-color: red;
+	float:right;
+	width: 35%;
+	height: 100%;
+	border: solid;
+}
+
+.correct{
+	background-color: green;
+	float:left;
+	width: 60%;
+	height: 100%;
+	border: solid;
+
+}
+
+.incorrect{
+	background-color: red;
+	float:left;
+	width: 60%;
+	height: 100%;
+	border: solid;
+}
+
+#box_input{
+	margin: 0% 5%;
+	height: 8%;
+	background-color: white;
+	border: solid;
+}
+
+h1{
+	width: 90%;
+	background-color: white;
+	font-family: verdana;
+	font-size: 150%;
+	border: solid;
+	text-align: center;
+	padding: 2% 0%;
+	margin: 2% auto;
+}
+
+h2{
+	height: 10%;
+	width: 90%;
+	background-color: white;
+	font-family: verdana;
+	font-size: 150%;
+	border: solid;
+	text-align: center;
+	margin: 5% auto;
+
+}
+
+h2:hover{
+	background-color: gray;
+	opacity: 25%;
+}
+#image{
+	
+}
+.image_border{
+	margin: 0% 5%;
+}
+
+
+.image_border #image{
+	width: 100%;
+	height: 60%;
+}
+
+#timer{
+	background-color: yellow;
+	font-family: monospace;
+	text-align: center;
+	margin: 0em auto;
+	font-size: 10em;
+	height: 50%;
+	width: 100%;
+}
+
+#choices{
+	height: 50%;
+	width: 100%;
+	
+}
