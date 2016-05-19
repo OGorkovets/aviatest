@@ -58,15 +58,10 @@
           //Connect to the Database
           require "db.php";
 
-          try {
-            $dbh = new PDO("mysql:host=$hostname;
-                           dbname=aviation_aviation", $username, $password);
-            //echo "Connected to database.";
-          } 
-          catch (PDOException $e) {
-            echo $e->getMessage();
+          $dbh = new PDO("mysql:host=$hostname; dbname=aviatest_english", $username, $password);
+          if(!$dbh){
+              die("Connection failed: " .mysql_error()); 
           }
-
           $STM = $dbh->prepare("SELECT count(*) FROM Section");
           //Test statement to grab the _POST section
           $STM->execute();

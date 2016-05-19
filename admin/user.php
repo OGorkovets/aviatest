@@ -7,13 +7,12 @@
         //Connect to the database
         require "../db.php";
     
-        try {
-            $dbh = new PDO("mysql:host=$hostname;
-                           dbname=aviation_aviation", $username, $password);
-           
-        } catch (PDOException $e) {
-            echo $e->getMessage();
-        }
+       
+	$dbh = new PDO("mysql:host=$hostname;
+						dbname=aviatest_english", $username, $password);
+	if(!$dbh){
+		die("Connection failed: " .mysql_error());
+	}
 
  
     //See if the form has been submitted

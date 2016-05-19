@@ -11,11 +11,10 @@
 	//Database
 	require "db.php";
 
-	try {
-		$dbh = new PDO("mysql:host=$hostname;
-						dbname=aviation_aviation", $username, $password);
-	} catch (PDOException $e) {
-		echo $e->getMessage();
+	$dbh = new PDO("mysql:host=$hostname;
+						dbname=aviatest_english", $username, $password);
+	if(!$dbh){
+		die("Connection failed: " .mysql_error());
 	}
 	$tbl_name = "UserInfo";
 
@@ -24,8 +23,8 @@
 	$mypassword=$_POST['mypassword'];
 
 
-	//$sql="SELECT * FROM $tbl_name WHERE email='$myusername' and password='$mypassword'";
-	$sql = "SELECT * FROM $tbl_name WHERE password='$mypassword'";
+	$sql="SELECT * FROM $tbl_name WHERE email='$myusername' and password='$mypassword'";
+	//$sql = "SELECT * FROM $tbl_name WHERE password='$mypassword'";
 	$result=$dbh->query($sql);
 
 	//Test that the user name contains @mail.greenriver.edu
@@ -39,7 +38,7 @@
 
 	// If result matched $myusername and $mypassword, table row must be 1 row
 
-	if(($count==1 && $validUser) || $myusername == 'tostrander@greenriver.edu'){
+	if(($count==1 && $validUser)){
 
 		// Register $myusername, $mypassword and redirect to file "user_login_success.php"
 		/*$_SESSION["myusername"] = $myusername;

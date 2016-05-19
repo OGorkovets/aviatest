@@ -1,5 +1,9 @@
 <?php
-    $username = "aviation_sql";
-    $password = "FunwithAviation!!";
-    $hostname = "localhost";
+    
+	//define('DBUSER', 'aviatest_admin');
+	//define('DBPASS', 'admin');
+	//define('DBNAME', 'aviatest_english');
+	$username = 'aviatest_admin';
+    $password = 'admin';
+    $hostname = 'localhost';
 ?>
