@@ -1,18 +1,13 @@
 <?php
-    //*** Start a session
-    session_start();
-    //*** Start the buffer
-    ob_start();
-    
-    /*if(empty($_SESSION["myusername"])){
-      session_unset();
-      header("location:index.html");
-    }*/
-
-    if(empty($_SESSION["loggedin"])){
-      session_unset();
-      header("location:index.html");
-    }
+  /**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename main.php
+   * this is start page for the site
+   * requires: db.php, session.php
+   */
+   //Create session
+    require 'session.php';
 
 ?>
 <!DOCTYPE html>
@@ -57,11 +52,7 @@
         <?php
           //Connect to the Database
           require "db.php";
-
-          $dbh = new PDO("mysql:host=$hostname; dbname=aviatest_english", $username, $password);
-          if(!$dbh){
-              die("Connection failed: " .mysql_error()); 
-          }
+          
           $STM = $dbh->prepare("SELECT count(*) FROM Section");
           //Test statement to grab the _POST section
           $STM->execute();

@@ -1,17 +1,13 @@
 <?php
-//Start a session
-session_start();
-// Start the buffer
-ob_start();
-
-    /*if(empty($_SESSION["myusername"])){
-    session_unset();
-    header("location:index.html");
-    }*/
-    if(empty($_SESSION["loggedin"])){
-      session_unset();
-      header("location:index.html");
-    }
+  /**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename memoryGame.php
+   * this file is used to run memoryGame
+   * requires: sectiongrabber.php, memScript.php, session.php
+   */
+  //Create session
+  require 'session.php';
 ?>
 <!DOCTYPE html>
 
@@ -38,11 +34,11 @@ ob_start();
     <div class="container-fluid">
       <div class = "row col-md-12">
         <div class="col-md-6">
-          <a href="main.php" class="buttons"><img class="buttons img-responsive" src="images/menu.png" alt="menu"></a>
+          <a href="main.php" class="buttons"><img class="buttons img-responsive" src="images/menu.png" alt="menu" title="Home page"></a>
         </div>
         
         <div class="col-md-6">
-          <a id="resetId" onClick="newBoard()"><img class="pull-right buttons img-responsive" src="images/reset.png" alt="reset game"></a>
+          <a id="resetId" onClick="newBoard()"><img class="pull-right buttons img-responsive" src="images/reset.png" alt="reset game" title="Reset Game"></a>
         </div>
       </div>
       <div class= "row">
@@ -105,7 +101,7 @@ ob_start();
       <hr>
       
       <!-- Button trigger modal -->
-		    <img id='question' src="images/question.png" alt="help menu" data-toggle="modal" data-target="#myModal">
+		    <img id='question' src="images/question.png" alt="help menu" title="Hint" data-toggle="modal" data-target="#myModal">
       <a href="admin/index.php">Administration</a>
     </footer>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

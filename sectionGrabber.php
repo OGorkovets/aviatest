@@ -1,25 +1,16 @@
 <?php
-//Start a session
-session_start();
-// Start the buffer
-ob_start();
+  /**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename sectionGrabber.php
+   * this file is used to retrive card info from database and display it 
+   */
 
-    /*if(empty($_SESSION["myusername"])){
-    session_unset();
-    header("location:index.html");
-    }*/
-    if(empty($_SESSION["loggedin"])){
-      session_unset();
-      header("location:index.html");
-    }
+  //Create session
+  require 'session.php';
 
  //Connect to the Database
   require "db.php";
-
-   $dbh = new PDO("mysql:host=$hostname; dbname=aviatest_english", $username, $password);
-    if(!$dbh){
-         die("Connection failed: " .mysql_error()); 
-    }
 
   //pull the card section default to 1? 
   $STM = $dbh->prepare("SELECT term, img, audio, sentence FROM Cards WHERE secid = 1");

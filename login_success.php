@@ -1,9 +1,12 @@
 <?php
- session_start();
- ob_start();
- if(empty($_SESSION["myemail"])){
-    header("location:adminIndex.php");
- }
+    /**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename login_success.php
+   * requires: session.php
+   */
+  //Create session
+  require 'session.php';
  ?>
 
  <html>

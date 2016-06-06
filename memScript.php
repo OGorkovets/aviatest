@@ -1,5 +1,10 @@
 <?php 
-  
+  /**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename memScript.php
+   * this file is used to pick random cards and create new memoryGame
+   */
   //Use php to grab the maximum number of cards available
   if(isset($_GET['secid'])){
     $STM = $dbh->prepare("SELECT count(*) FROM Cards WHERE secid = ".$_GET['secid']);

@@ -1,17 +1,13 @@
 <?php
-//Start a session
-session_start();
-// Start the buffer
-ob_start();
-
-    /*if(empty($_SESSION["myusername"])){
-    session_unset();
-    header("location:index.html");
-    }*/
-    if(empty($_SESSION["loggedin"])){
-      session_unset();
-      header("location:index.html");
-    }
+	/**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename flashcard.php
+   * this file is used to run flash cards page based on section
+   * that have been chosen
+   */
+  //Create session
+  require 'session.php';
 
 ?>
 <!DOCTYPE html>
@@ -32,7 +28,7 @@ ob_start();
 		<div class='container'>
 			<div class = "masthead">
 				<ul class="nav nav-pills pull-left">
-					<li><a href="main.php"><img src="images/menu.png" alt="menu"></a></li>
+					<li><a href="main.php"><img src="images/menu.png" alt="menu" title="Home page"></a></li>
 				</ul>
 			</div>
 
@@ -55,10 +51,10 @@ ob_start();
 					<br>
 
 					<div>
-						<img id="prev" src="images/left.png" alt="back button">
-						<img id="audioIcon" src="images/audioicon.png" alt="audio icon to hear word">
+						<img id="prev" src="images/left.png" alt="back button" title="previous">
+						<img id="audioIcon" src="images/audioicon.png" alt="audio icon to hear word" title="listen">
 						<audio id="audioPlay"></audio>
-						<img id="next" src="images/right.png" alt="forward button">
+						<img id="next" src="images/right.png" alt="forward button" title="next">
 					</div>
 				</div>
 			</div>
@@ -67,6 +63,7 @@ ob_start();
 			<?php
 				require 'sectionGrabber.php';
 			?>
+			//this script is used to switch between the cards using code from sectionGrabber.php
 			<script>
 				$(document).ready(function() {
 					next();

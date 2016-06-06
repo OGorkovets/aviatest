@@ -1,21 +1,17 @@
 <?php
-	// Start Session
-	session_start();
-
-	// Start the buffer
-	ob_start();
-
-	ini_set('display_errors',1); 
-	error_reporting(E_ALL);
+	/**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename user_login.php
+   * this file is used to check user credentials with database when user login
+   * requires: db.php, session.php
+   */
+	//Create session
+	require 'session.php';
 
 	//Database
 	require "db.php";
 
-	$dbh = new PDO("mysql:host=$hostname;
-						dbname=aviatest_english", $username, $password);
-	if(!$dbh){
-		die("Connection failed: " .mysql_error());
-	}
 	$tbl_name = "UserInfo";
 
 	// Define $myusername and $mypassword from User Form

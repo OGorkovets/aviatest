@@ -1,17 +1,14 @@
 <?php
-//Start a session
-session_start();
-// Start the buffer
-ob_start();
+	/**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename quiz.php
+   * this file starts quiz after it was selected
+   * requires: db.php, session.php
+   */
 
-    /*if(empty($_SESSION["myusername"])){
-	    session_unset();
-	    header("location:index.html");
-    }*/
-    if(empty($_SESSION["loggedin"])){
-      session_unset();
-      header("location:index.html");
-    }
+  //Create session
+  require 'session.php';
 ?>
 <!doctype html>
 <html>
@@ -53,18 +50,18 @@ ob_start();
 				<div class="col-xs-6">
 					<h1>Choose an answer:</h1>
 					<div id="choices">
-						<h2 class= "select text-center" id="answer1" draggable="false"></h2><audio id="audioPlay1"></audio>
-						<h2 class= "select text-center" id="answer2" draggable="false"></h2><audio id="audioPlay2"></audio>
-						<h2 class= "select text-center" id="answer3" draggable="false"></h2><audio id="audioPlay3"></audio>
-						<h2 class= "select text-center" id="answer4" draggable="false"></h2><audio id="audioPlay4"></audio>
+						<h2 class= "select text-center" id="answer1" draggable="false" title="click to choose"></h2><audio id="audioPlay1" ></audio>
+						<h2 class= "select text-center" id="answer2" draggable="false" title="click to choose"></h2><audio id="audioPlay2" ></audio>
+						<h2 class= "select text-center" id="answer3" draggable="false" title="click to choose"></h2><audio id="audioPlay3" ></audio>
+						<h2 class= "select text-center" id="answer4" draggable="false" title="click to choose"></h2><audio id="audioPlay4" ></audio>
 					</div>
 					
 				</div>
 			</div>
 			
 			<div id="bottom" class="text-center container-fluid">
-			      <button type="button" id="prev" class="btn btn-lg btn-default col-xs-6">Previous</button>
-			      <button type="button" id="next" class="btn btn-lg btn-default col-xs-6">Next</button>
+			      <button type="button" id="prev" class="btn btn-lg btn-default col-xs-6" title="previous question">Previous</button>
+			      <button type="button" id="next" class="btn btn-lg btn-default col-xs-6" title="next question">Next</button>
 			</div>
 			<div class="container-fluid">
 			    
@@ -72,13 +69,7 @@ ob_start();
 			<script src="http://code.jquery.com/jquery.js"></script>
 			<?php
 			   //Connect to the Database
-			    require "db.php";
-			  
-			  $dbh = new PDO("mysql:host=$hostname; dbname=aviatest_english", $username, $password);
-			  if(!$dbh){
-				  die("Connection failed: " .mysql_error()); 
-			  }
-			
+			    require "db.php";			
 			
 			  //Use php to grab the maximum number of cards available
 			  if(isset($_GET['secid'])){
@@ -174,9 +165,9 @@ ob_start();
 		<footer class="container-fluid">
 		  <hr>
 		  <p>
-		    <a href="main.php" class="buttons"><img id='menu' src="images/menu.png" alt="menu"></a>
+		    <a href="main.php" class="buttons"><img id='menu' src="images/menu.png" alt="menu" title="Home page"></a>
 		    <!-- Button trigger modal -->
-		    <img id='question' src="images/question.png" alt="help menu" data-toggle="modal" data-target="#myModal">
+		    <img id='question' src="images/question.png" alt="help menu" title="Hint" data-toggle="modal" data-target="#myModal">
 		    <a href="admin/index.php">Administration</a>
 		  </p>
 		</footer>

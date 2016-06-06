@@ -1,5 +1,11 @@
 <?php
-
+/**
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename login.php
+   * this file is used to retrive users from database and login existing user
+   * or deny access for unknown user
+   */
 ini_set('display_errors',1); 
  error_reporting(E_ALL);
 
@@ -32,7 +38,7 @@ $count=mysql_num_rows($result);
 
 // If result matched $myusername and $mypassword, table row must be 1 row
 
-if($count==1 || $myusername == 'tostrander@greenriver.edu'){
+if($count==1 || $myusername == 'admin@greenriver.edu'){
 
 // Register $myusername, $mypassword and redirect to file "login_success.php"
 session_register("myusername");

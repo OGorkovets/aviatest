@@ -1,5 +1,13 @@
 <!doctype html>
 <html>
+	
+	<!--
+   * @edited by Oleksandr, Axum, Ramona
+   * @version 2.0
+   * @filename quizResult.php
+   *this file is used to report quiz result
+   -->
+	
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
